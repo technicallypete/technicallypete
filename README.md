@@ -1,6 +1,7 @@
 ![Vestive](https://d1boqihhlc3k0l.cloudfront.net/assets/images/vestive-10.png)
 
 > Build faster — without bloated dev teams.
+> 
 > Vestive’s expert fractional web architects deliver modern apps in record time through our Restruct™ methodology — risk-free for 30 days.
 
 ## 🛠️ WHAT WE DO
