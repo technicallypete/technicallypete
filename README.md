@@ -2,7 +2,7 @@
 
 > Build faster — without bloated dev teams.
 > 
-> Vestive’s expert fractional web architects deliver modern apps in record time through our Restruct™ methodology — risk-free for 30 days.
+> Vestive’s expert fractional web architects deliver modern apps in record time through our Restruct™ methodology.
 
 ## 🛠️ WHAT WE DO
 
