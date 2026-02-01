@@ -35,7 +35,7 @@ We've **designed** our engagements as:
 
 **We adapt each plan as needed — in a way that keeps risk contained.**
 
-### Interested in learning more?
+### Ready to derisk your architecture?
 
 💬 Talk to an architect today at 👉 [vestive.com](https://vestive.com) or
 
