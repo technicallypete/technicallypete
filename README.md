@@ -1,11 +1,11 @@
 ![Vestive](https://d1boqihhlc3k0l.cloudfront.net/assets/images/vestive-10.png)
 
-> In the age of AI — architecture, governance, & accountability have never mattered more.
+> **In the age of AI — architecture, governance, & accountability have never mattered more.**
 > 
 > We stop bad software decisions before they happen — without bloated dev teams.
 
 ## THE RISK
-Enterprise systems must be durable and scalable, not:
+Enterprise systems must be durable and scalable, **not**:
 - New generation features built atop a cracking **legacy** foundation,
 - A pool of developers **reinventing** architecture for every new feature,
 - An ecosystem that **rewards spend** over responsibility,
