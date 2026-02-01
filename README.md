@@ -43,4 +43,4 @@ We've **designed** our engagements as:
 
 ### And remember:
 
-💡 *For better IT investments, better get Vestive.*
+💡 *For better IT investments, better get Vestive®.*
