@@ -1,5 +1,5 @@
 > [!TIP]
-> 🔥 Newer projects hosted on [GitLab](https://getvs.tv/gitlab)
+> 🔥 More **recent projects** are hosted on [GitLab](https://getvs.tv/gitlab)
 
 ![Vestive](https://d1boqihhlc3k0l.cloudfront.net/assets/images/vestive-10.png)
 
