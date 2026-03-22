@@ -1,4 +1,4 @@
-🔥 Newer projects on [GitLab](https://getvs.tv/gitlab)
+🔥 Newer projects hosted on [GitLab](https://getvs.tv/gitlab)
 --
 
 ![Vestive](https://d1boqihhlc3k0l.cloudfront.net/assets/images/vestive-10.png)
