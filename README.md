@@ -1,4 +1,4 @@
-> 🔥 Newer code on 👉 [GitLab](https://getvs.tv/gitlab)
+🔥 **Newer code** on 👉 [GitLab](https://getvs.tv/gitlab)
 
 ![Vestive](https://d1boqihhlc3k0l.cloudfront.net/assets/images/vestive-10.png)
 
@@ -37,8 +37,8 @@ We've **designed** our engagements as:
 
 **We adapt each plan as needed — in a way that keeps risk contained.**
 
-### Ready to derisk your architecture?
-💬 Talk to an architect today at 👉 [vestive.com](https://vestive.com) or
+### Ready to derisk your architecture? 
+💬 Talk to an architect today at 👉 [vestive.com](https://vestive.com) or 
 📆 Book a FREE consultation at 👉 [get.vestive.com](https://get.vestive.com)
 
 ### And remember:
