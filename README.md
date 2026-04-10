@@ -7,9 +7,9 @@
 
 ![Vestive](https://d1boqihhlc3k0l.cloudfront.net/assets/images/vestive-10.png)
 
-> **In the age of AI — architecture, governance, & accountability have never mattered more.**
-> 
-> We stop bad software decisions before they happen — without bloated dev teams.
+> **We stop bad software decisions before they happen.**
+>
+> Outcome-based results start with architecture—not hours.
 
 ## THE RISK
 Enterprise systems must be durable and scalable, **not**:
