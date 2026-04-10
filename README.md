@@ -1,7 +1,7 @@
 > [!TIP]
 > **Check out [Outreacher](https://github.com/technicallypete/outreacher)**:
 > * ✨ Boilerplate AI MCP+SaaS LLM foundation
-> * 🚀 Example use-case: An AI-powered lead management CRM system with an MCP server for Claude Desktop and a Next.js SaaS frontend.
+> * 🚀 Example use-case: An AI-powered lead qualification system with an MCP server for Claude Desktop and a Next.js SaaS frontend.
 > 
 > 🔥 Other **recent projects** are hosted on [GitLab](https://getvs.tv/gitlab)
 
